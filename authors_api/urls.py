@@ -7,3 +7,4 @@ urlpatterns = [
     path(settings.ADMIN_URL, admin.site.urls),
 ]
 
+#commment
