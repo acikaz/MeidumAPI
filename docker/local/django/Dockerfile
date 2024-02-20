@@ -52,3 +52,4 @@ RUN chmod +x /start
 COPY . ${APP_HOME}
 
 ENTRYPOINT [ "/entrypoint" ]
+
